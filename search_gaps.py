@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Feb 25 21:24:15 2026
-
-@author: mcing
-The aim of this script is to read a fasta file, and search for the,
-position of gaps in a fasta file. it then outputs them in into a bed file
+@author: mcinga
 """
 
 import re
